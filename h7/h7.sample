@@ -1,0 +1,17 @@
+
+
+class A{
+	int a;
+	private static bool b; 
+
+	{
+	}
+    static {
+	}
+    static class B{
+		
+	}
+	func void setVal(int a){
+		this->a = a;
+	}	
+}
